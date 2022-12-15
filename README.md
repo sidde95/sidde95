@@ -1,6 +1,7 @@
 <h2> Hi, I'm Siddharth!</h2>
 
-<h3>Why read me?</h3><br>
+<h3>Why read me?</h3>
+
   I'm writing this in the hope that we can fast forward through some getting to know you facets of me that we might miss.
   I am erally keen to do great work with/for you and I can be extremely extraordinary creative and productive under the right conditions. I also love learning, brainstorming and ofcourse I am best at taking short naps. I can be extremely extraordinary creative and productive under the right conditions.
   I am also very imperfect and I hope that my transparency about them here is not treated as an excuse for my flaws but as a guide for you to know how I might fail. Consider this an open invite for you to call me out and prevent bigger pain down the road!
