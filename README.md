@@ -7,7 +7,7 @@
   
 <h3>My Work Place Role</h3>
 
-I work as a Business Analyst at Relatient, a software developing company serving its product in US Healthcare Domain helping patients to schedule hassle free interface to schedule their appointments in a more simplified ways.
+I work as a Business Analyst at Relatient, a software developing company serving its product in US Healthcare Domain helping patients to schedule hassle free interface to schedule their appointments in more simplified ways.
 
 
 <h3>What I believe the most</h3>
