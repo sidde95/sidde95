@@ -1,29 +1,27 @@
-<h2> Hi, I'm Siddharth!</h2>
+**<i>`Yo-yO!!`</i>**
 
-<h2>Why read me?</h2>
+<h2><i>Why engage with me?</i></h2>
 
-  I'm writing this in the hope that we can fast forward through some getting to know you facets of me that we might miss.
-  I am erally keen to do great work with/for you and I can be extremely extraordinary creative and productive under the right conditions. I also love learning, brainstorming and ofcourse I am best at taking short naps. I can be extremely extraordinary creative and productive under the right conditions.
-  I am also very imperfect and I hope that my transparency about them here is not treated as an excuse for my flaws but as a guide for you to know how I might fail. Consider this an open invite for you to call me out and prevent bigger pain down the road!
-  
-<h2>My Work Place Role</h2>
+I present this introduction to offer you an expedited understanding of my background, capabilities, and aspirations, enabling us to forge a connection more efficiently. My genuine eagerness lies in the prospect of collaborating with you to achieve exceptional outcomes. Under optimal conditions, I possess an exceptional ability to unleash my creativity and productivity, which can prove invaluable to our joint endeavors. Furthermore, my insatiable appetite for learning, penchant for ideation, and knack for rejuvenating through brief respites are all key facets of my professional persona. I embrace the opportunity to continuously learn, brainstorm, and indulge in moments of rest, which ultimately invigorates my performance. Although I readily acknowledge my imperfections, I view this transparency not as an excuse for shortcomings but as a guide for understanding how I may fall short at times. I extend an open invitation to hold me accountable, recognizing that it can prevent larger setbacks in the future.
 
-I work as a Business Analyst at Relatient, a software developing company serving its product in US Healthcare Domain helping patients to schedule hassle free interface to schedule their appointments in more simplified ways.
+<h2><i>My Workplace Role</i></h2>
 
+Currently, I serve as a Business Analyst at Relatient, a leading software development company catering to the US Healthcare Domain. Our primary objective revolves around empowering patients with a streamlined and hassle-free interface for scheduling appointments, revolutionizing their healthcare experiences.
 
-<h2>What I believe the most</h2>
-<ul>
-  <li><b>Learn in Public</b>: I prefer to share what I learn and work on, after doing my level best before it's perfect. This means I will be wrong more often than most people, but I respond very well to people who correct me because I always reserve the right to be wrong.</li>
-  
-  <li><b>System over Goals</b>: There are things I can control🎮and things I can't😅. Of the things I can control I focus🎯 on the items I can work on more frequently that can compound, and get me tangibly closer toward my itendified goal. But the goal isn't the point😮. The goal doesn't matter at. What matters?, it is the system that sustainably gets me there that is everything, and I welcome the opportunity to periodically take a step back and work on the system instead of working in the system.</li>
-  
-  <li><b>Maintaining a hooby to relax myself</b>: There are many things which I want to create or maintain but can't fufill all of those due to time contraint. How to get more than 24 hours a day?🤯😂, well I prefer driving mostly in the rural areas with soft music in background and not thinking about any of goals, responsibilty, instead just concentratating on the scenic beauty and enjoying the hasslefree and technology independent lifestyle of the rual people, which chanting the lyrics🌝. </li>
-</ul>
+<h2><i>Core Tenets</i></h2>
 
-<h2>What I am work on?</h2>
-As a dream to be a Data Scientist in the US banking or US Investment Domain, there are plenty though which I have to go and at times I may have to face challenging situation to master the concepts especially while dealing with linear statistics or inferential statistics, so to begin my journey I have started to master the topic which is used by the majority of the population while aiming to be placed as a Data Scientist i.e., SQL(Structured Query Language).
+- **Learn in Public**: I strongly uphold the principle of openly sharing my learning endeavors and ongoing projects, even during their imperfect stages. While this inclination might lead to a higher incidence of occasional errors, I warmly welcome and genuinely appreciate constructive feedback. It is through these interactions that I consistently refine my understanding and embrace the iterative nature of progress.
 
+- **System over Goals**: My approach to professional growth centers on prioritizing the elements within my control, emphasizing their continuous development. By directing my efforts towards these variables, I continually advance towards my defined objectives. However, it is important to emphasize that my ultimate focus transcends the attainment of specific goals. Instead, I actively cultivate sustainable systems that propel me towards long-term success. I readily embrace opportunities to recalibrate and optimize these systems, ensuring consistent progress and avoiding stagnation.
 
-<h2>How to reach out to me?</h2>
-Well my working time is from 10:00pm to 8:00 pm IST, after that I would like rejoice😬 my self to drain out my daily exhaustion😮‍💨 which helps me to concentrate on my studies which I usually after after my dinner till late night till I get brainfreezed🥶.<br>
-Here is my LinkedIN ID: https://www.linkedin.com/in/siddeda/
+- **Maintaining a Relaxation Hobby**: While my commitments often prevent me from pursuing every creative endeavor or maintenance project, I find solace in engaging in a specific hobby. It entails embarking on scenic drives through rural landscapes, accompanied by soothing melodies. During these moments, I consciously disconnect from the pressures of goals and responsibilities, immersing myself in the tranquil beauty of nature. This harmonious experience allows me to momentarily relinquish the demands of technology and reflect on the simplicity of life while joyfully reciting lyrics.
+
+<h2><i>Current Pursuits</i></h2>
+
+In my pursuit of becoming a Data Scientist within the US banking or investment domain, I wholeheartedly embrace the multifaceted journey that lies ahead. This path demands tenacity and a willingness to overcome challenging obstacles, particularly in mastering intricate concepts such as linear and inferential statistics. To lay a strong foundation, I have diligently commenced my studies, focusing on the indispensable skill of SQL (Structured Query Language), widely employed by the majority of data professionals aspiring to excel as Data Scientists.
+
+<h2><i>Contacting Me</i></h2>
+
+My availability for professional communication spans from 10:00 PM to 8:00 PM IST, allowing ample time for collaboration and fruitful exchanges. Following this period, I intentionally allocate time for personal rejuvenation, enabling me to approach my studies with a refreshed mindset. Typically, I dedicate my evenings to immersive learning endeavors, often extending into the late hours until mental fatigue sets in. To initiate contact, kindly utilize my LinkedIn profile through the provided link: <a href = "https://www.linkedin.com/in/siddeda/">LinkedIn</a>
+
+Thank you for investing your time in reviewing my introduction. I eagerly anticipate the opportunity to establish a connection and embark on a rewarding professional journey together.
