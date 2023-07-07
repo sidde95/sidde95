@@ -1,5 +1,8 @@
 **<i>`Yo-yO!!`</i>**
 
+[![Linkedin: Siddhartha Roy](https://img.shields.io/badge/-Siddhartha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/siddeda/)
+
+
 <h2><i>Why engage with me?</i></h2>
 
 I present this introduction to offer you an expedited understanding of my background, capabilities, and aspirations, enabling us to forge a connection more efficiently. My genuine eagerness lies in the prospect of collaborating with you to achieve exceptional outcomes. Under optimal conditions, I possess an exceptional ability to unleash my creativity and productivity, which can prove invaluable to our joint endeavors. Furthermore, my insatiable appetite for learning, penchant for ideation, and knack for rejuvenating through brief respites are all key facets of my professional persona. I embrace the opportunity to continuously learn, brainstorm, and indulge in moments of rest, which ultimately invigorates my performance. Although I readily acknowledge my imperfections, I view this transparency not as an excuse for shortcomings but as a guide for understanding how I may fall short at times. I extend an open invitation to hold me accountable, recognizing that it can prevent larger setbacks in the future.
@@ -22,6 +25,6 @@ In my pursuit of becoming a Data Scientist within the US banking or investment d
 
 <h2><i>Contacting Me</i></h2>
 
-My availability for professional communication spans from 10:00 PM to 8:00 PM IST, allowing ample time for collaboration and fruitful exchanges. Following this period, I intentionally allocate time for personal rejuvenation, enabling me to approach my studies with a refreshed mindset. Typically, I dedicate my evenings to immersive learning endeavors, often extending into the late hours until mental fatigue sets in. To initiate contact, kindly utilize my LinkedIn profile through the provided link: <a href = "https://www.linkedin.com/in/siddeda/">LinkedIn</a>
+My availability for professional communication spans from 10:00 PM to 8:00 PM IST, allowing ample time for collaboration and fruitful exchanges. Following this period, I intentionally allocate time for personal rejuvenation, enabling me to approach my studies with a refreshed mindset. Typically, I dedicate my evenings to immersive learning endeavors, often extending into the late hours until mental fatigue sets in. To initiate contact, kindly utilize my LinkedIn profile, link above.
 
 Thank you for investing your time in reviewing my introduction. I eagerly anticipate the opportunity to establish a connection and embark on a rewarding professional journey together.
