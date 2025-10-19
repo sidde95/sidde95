@@ -39,20 +39,3 @@ Predict insurance premiums using **Random Forest Regressor**, deployed with **St
 **Bank Churn Prediction**  
 Predict customer churn using **XGBoost**, deployed with **Streamlit**  
 📁 [Project Link](Classification_Project/Bank_Churn_Dataset)
-
-*(More projects coming soon… including Deep Learning and NLP applications)*  
-
----
-
-## 📈 Learning & Goals
-- Master **Transformers and LLMs** for NLP applications  
-- Build **complex deep learning pipelines** for real-world datasets  
-- Land **Data Science roles in Banking / Finance / Analytics**  
-
----
-
-## 📬 Contact Me
-- **LinkedIn:** [Siddhartha Roy](https://www.linkedin.com/in/siddhartha-roy/)  
-- **Email:** siddhartha.roy@example.com  
-
-> “Driven by curiosity, guided by data, and committed to building impactful AI solutions.”
