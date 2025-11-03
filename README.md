@@ -67,7 +67,8 @@ End-to-end ML workflows for predictive modeling and data-driven decision systems
 
 - **Medical Premium Price Prediction** – Regression model for healthcare pricing  
 - **Bank Churn Prediction** – Predicts customer churn using ensemble ML  
-- **Rainfall Forecasting** – Gradient boosting for weather prediction  
+- **Rainfall Forecasting** – Gradient boosting for weather prediction
+- **Used Car Price Prediction** - Predict the selling price of used cars using features such as brand, manufacturing year, kilometers driven, etc.
 
 **Stack:** scikit-learn · Linear Regression · Logistic Regression · Decision Tree · AdaBoost · Random Forest · XG Boost · Gradient Boost · KNN · pandas · numpy · matplotlib · seaborn · Streamlit
 
