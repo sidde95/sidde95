@@ -3,13 +3,15 @@
 <h3 align="center">Designing Data Intelligence Systems — from Machine Learning to Generative AI</h3>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
   <a href="https://github.com/sidde95"><img src="https://img.shields.io/badge/GitHub-sidde95-black?logo=github" /></a>
   <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
   <img src="https://img.shields.io/badge/Status-Building_Projects-green?style=flat-square" />
+  
 </p>
 
----
+ ---
 
 ### About Me
 I build **intelligent data and AI systems** that merge structured learning with generative reasoning.  
@@ -86,10 +88,5 @@ End-to-end ML workflows for predictive modeling and data-driven decision systems
 - Deepening study in **RNNs, Transformers, and Large Language Models**  
 - Experimenting with **Generative AI pipelines** for real-world data systems  
 
----
 
-## 📬 Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="https://github.com/sidde95"><img src="https://img.shields.io/badge/GitHub-sidde95-black?logo=github" /></a>
-</p>
+
