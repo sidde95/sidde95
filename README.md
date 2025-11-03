@@ -11,7 +11,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 I build **intelligent data and AI systems** that merge structured learning with generative reasoning.  
 My work focuses on **Machine Learning**, **LLM Architectures**, and **AI workflow automation** using frameworks like LangGraph and CrewAI.  
 
@@ -19,7 +19,7 @@ This space documents my experiments — transforming models, agents, and pipelin
 
 ---
 
-## ⚙️ Core Expertise
+## Core Expertise
 
 - **Applied Machine Learning** — Regression, Classification, Feature Engineering  
 - **Generative AI Systems** — LangChain, LangGraph, CrewAI, RAG Pipelines  
@@ -28,7 +28,7 @@ This space documents my experiments — transforming models, agents, and pipelin
 
 ---
 
-## 🧩 Featured Repositories
+## Featured Repositories
 
 ### [GenerativeAI-Projects](https://github.com/sidde95/GenerativeAI-Projects)
 Exploring **LLM-driven systems** that automate reasoning, summarization, and analytics.
@@ -38,6 +38,16 @@ Exploring **LLM-driven systems** that automate reasoning, summarization, and ana
 - **QueryMyPDF (RAG)** – Conversational interface for document understanding  
 
 **Stack:** LangChain · LangGraph · CrewAI · Pinecone · ChromaDB · FAISS · OpenAI API · HuggingFace API · Groq API · Streamlit
+
+---
+
+### [ANN-Projects](https://github.com/sidde95/ANN-Projects)
+End-to-end Deep Learning projects built with TensorFlow and Keras showcasing how ANNs solve real-world problems in both regression and classification tasks.  
+
+- **Spotify Churn Prediction** – Classification using Artificial Neural Networks (Streamlit Deployed)  
+- **Beats Per Minute (BPM) Prediction** – Regression model predicting song tempo (Kaggle Playground Series - S5E9)  
+
+**Stack:** TensorFlow · Keras · scikit-learn · pandas · numpy · matplotlib · seaborn · Streamlit  
 
 ---
 
@@ -52,7 +62,7 @@ End-to-end ML workflows for predictive modeling and data-driven decision systems
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-yellow?logo=python&logoColor=white" />
@@ -69,7 +79,7 @@ End-to-end ML workflows for predictive modeling and data-driven decision systems
 
 ---
 
-## 🧭 Research & Learning Path
+## Research & Learning Path
 
 - Advancing **LangGraph-based LLM architectures** for autonomous reasoning  
 - Building **CrewAI agents** for data analytics and business intelligence  
