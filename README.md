@@ -1,41 +1,85 @@
-# 👋 Hi, I'm Siddhartha Roy
+<!-- Header Section -->
+<h1 align="center">Siddhartha Roy</h1>
+<h3 align="center">Designing Data Intelligence Systems — from Machine Learning to Generative AI</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddhartha%20Roy-blue?logo=linkedin)](https://www.linkedin.com/in/siddhartha-roy/) 
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/) 
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io/) 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange?logo=tensorflow)](https://www.tensorflow.org/)
-[![NLTK](https://img.shields.io/badge/NLTK-Natural%20Language%20Processing-brightgreen?logo=nltk)](https://www.nltk.org/)
-
----
-
-## 🚀 About Me
-I am a **Data Science enthusiast** transitioning from an **Implementation Analyst role in US Healthcare** to **Data Science & AI**, with a passion for **Machine Learning, Deep Learning, and NLP**.  
-
-I build **end-to-end projects**, from **data preprocessing to model deployment**, and actively study **RNNs, Transformers, and Large Language Models (LLMs)**. I enjoy leveraging **Keras, TensorFlow, and NLTK** for practical AI applications.  
+<p align="center">
+  <a href="https://github.com/sidde95"><img src="https://img.shields.io/badge/GitHub-sidde95-black?logo=github" /></a>
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Status-Building_Projects-green?style=flat-square" />
+</p>
 
 ---
 
-## 💡 Skills
+### 🧠 About Me
+I build **intelligent data and AI systems** that merge structured learning with generative reasoning.  
+My work focuses on **Machine Learning**, **LLM Architectures**, and **AI workflow automation** using frameworks like LangGraph and CrewAI.  
 
-**Programming & Data Analysis**  
-Python | SQL | Pandas | NumPy | Matplotlib | Seaborn  
-
-**Machine Learning & AI**  
-Random Forest | Gradient Boosting | XGBoost | Linear & Logistic Regression | RNNs | LSTMs | Transformers | LLMs | Keras | TensorFlow | NLTK  
-
-**Deployment & Tools**  
-Streamlit | Git | GitHub | Jupyter Notebook | VS Code  
+This space documents my experiments — transforming models, agents, and pipelines into interactive, real-world applications.
 
 ---
 
-## 🏗️ Projects
+## ⚙️ Core Expertise
 
-### Regression Projects
-**Medical Premium Price Prediction**  
-Predict insurance premiums using **Random Forest Regressor**, deployed with **Streamlit**  
-📁 [Project Link](Regression_Project/Medical_Premium_Price_Prediction)
+- **Applied Machine Learning** — Regression, Classification, Feature Engineering  
+- **Generative AI Systems** — LangChain, LangGraph, CrewAI, RAG Pipelines  
+- **Deep Learning & NLP** — TensorFlow, Keras, NLTK, Transformers  
+- **Deployment** — Streamlit-based AI and ML applications  
 
-### Classification Projects
-**Bank Churn Prediction**  
-Predict customer churn using **XGBoost**, deployed with **Streamlit**  
-📁 [Project Link](Classification_Project/Bank_Churn_Dataset)
+---
+
+## 🧩 Featured Repositories
+
+### [GenerativeAI-Projects](https://github.com/sidde95/GenerativeAI-Projects)
+Exploring **LLM-driven systems** that automate reasoning, summarization, and analytics.
+
+- **AI Ticket Triage System (LangGraph)** – Automates ticket classification and routing  
+- **Business Consultant Analyst (CrewAI)** – AI agent generating business insights from datasets  
+- **QueryMyPDF (RAG)** – Conversational interface for document understanding  
+
+**Stack:** LangChain · LangGraph · CrewAI · Pinecone · ChromaDB · FAISS · OpenAI API · HuggingFace API · Groq API · Streamlit
+
+---
+
+### [Machine-Learning-Projects](https://github.com/sidde95/Machine-Learning-Projects)
+End-to-end ML workflows for predictive modeling and data-driven decision systems.
+
+- **Medical Premium Price Prediction** – Regression model for healthcare pricing  
+- **Bank Churn Prediction** – Predicts customer churn using ensemble ML  
+- **Rainfall Forecasting** – Gradient boosting for weather prediction  
+
+**Stack:** scikit-learn · Linear Regression · Logistic Regression · Decision Tree · AdaBoost · Random Forest · XG Boost · Gradient Boost · KNN · pandas · numpy · matplotlib · seaborn · Streamlit
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-yellow?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-ML-blue?logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-Deep_Learning-orange?logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Keras-Neural_Networks-red?logo=keras" />
+  <img src="https://img.shields.io/badge/LangChain-LLM_Framework-green" />
+  <img src="https://img.shields.io/badge/LangGraph-Agentic_Flow-brightgreen" />
+  <img src="https://img.shields.io/badge/CrewAI-Multi_Agent_System-lightgrey" />
+  <img src="https://img.shields.io/badge/Streamlit-Deployment-pink?logo=streamlit" />
+  <img src="https://img.shields.io/badge/Pinecone-Vector_DB-blueviolet" />
+  <img src="https://img.shields.io/badge/NLTK-NLP-yellowgreen" />
+</p>
+
+---
+
+## 🧭 Research & Learning Path
+
+- Advancing **LangGraph-based LLM architectures** for autonomous reasoning  
+- Building **CrewAI agents** for data analytics and business intelligence  
+- Deepening study in **RNNs, Transformers, and Large Language Models**  
+- Experimenting with **Generative AI pipelines** for real-world data systems  
+
+---
+
+## 📬 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="https://github.com/sidde95"><img src="https://img.shields.io/badge/GitHub-sidde95-black?logo=github" /></a>
+</p>
