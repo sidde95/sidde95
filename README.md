@@ -3,7 +3,6 @@
 <h3 align="center">Designing Data Intelligence Systems — from Machine Learning to Generative AI</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
   <a href="https://github.com/sidde95"><img src="https://img.shields.io/badge/GitHub-sidde95-black?logo=github" /></a>
   <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
