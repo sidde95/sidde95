@@ -32,13 +32,23 @@ This space documents my experiments — transforming models, agents, and pipelin
 ## Featured Repositories
 
 ### [GenerativeAI-Projects](https://github.com/sidde95/GenerativeAI-Projects)
-Exploring **LLM-driven systems** that automate reasoning, summarization, and analytics.
+End-to-End Generative AI projects **LLM-driven systems** that automate reasoning, summarization, and analytics.
 
 - **AI Ticket Triage System (LangGraph)** – Automates ticket classification and routing  
 - **Business Consultant Analyst (CrewAI)** – AI agent generating business insights from datasets  
 - **QueryMyPDF (RAG)** – Conversational interface for document understanding  
 
 **Stack:** LangChain · LangGraph · CrewAI · Pinecone · ChromaDB · FAISS · OpenAI API · HuggingFace API · Groq API · Streamlit
+
+---
+
+### [RNN-Project](https://github.com/sidde95/RNN-Project)
+Exploring **Recurrent Neural Networks (RNNs)** for sequential data analysis and sentiment classification.  
+This project focuses on understanding text emotions using **RNN architectures** trained on Twitter and Reddit sentiment datasets.
+
+- **Twitter and Reddit Sentiment Analysis** – Performs sentiment classification (Positive, Neutral, Negative) using Recurrent Neural Networks.  
+
+**Stack:** TensorFlow · Keras · NLTK · pandas · numpy · matplotlib · seaborn · Streamlit  
 
 ---
 
