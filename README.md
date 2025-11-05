@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/sidde95"><img src="https://img.shields.io/badge/GitHub-sidde95-black?logo=github" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/siddhartha-roy95/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
   <img src="https://img.shields.io/badge/Status-Building_Projects-green?style=flat-square" />
   
