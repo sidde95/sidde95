@@ -10,6 +10,10 @@
   
 </p>
 
+<p align="center">
+  📄 <a href="https://github.com/sidde95/Resume/genai_resume.pdf">View My Resume</a>
+</p>
+
  ---
 
 ### About Me
